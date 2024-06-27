@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name                       = 'GrowthBook-IOS'
+  spec.name                       = 'GrowthBookIOS'
   spec.version                    = '1.0.57'
   spec.homepage                   = 'https://github.com/growthbook/growthbook-swift'
   spec.documentation_url          = 'https://docs.growthbook.io'
